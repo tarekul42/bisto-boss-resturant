@@ -29,10 +29,10 @@ const NavBar = () => {
                     </div>
                     <a className="btn btn-ghost text-xl"><span>Bistro Boss</span><br /><span>Restaurant</span></a>
                     {/* working here .................................. */}
-                    <div className="text-xl">
+                    {/* <div className="text-xl">
                         <p className="font-bold">Bistro Boss</p>
                         <p>Restaurant</p>
-                    </div>
+                    </div> */}
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
