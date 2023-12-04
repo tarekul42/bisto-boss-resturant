@@ -10,8 +10,8 @@ const Home = () => {
         <>
             <Helmet>
                 <title>Bistro Boss | Home</title>
-            </Helmet>
-            {/* main page start from here */}
+            </Helmet> 
+             {/* main page start from here */}
             <Banner />
             <Category />
             <PopularMenu />
